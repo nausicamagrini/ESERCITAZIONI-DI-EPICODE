@@ -1,0 +1,70 @@
+<!DOCTYPE html> 
+<html lang="it-IT">
+
+<head>
+<meta charset= "utf-8"> 
+<meta name=viewport"content=width=device-width, initial-scale=1.0">
+
+<head> <h1> IL MIO CURRICULUM VITAE </h1> </head> 
+
+<h2> profilo, competenze ed esperienze maturate in ambito professionale </h2> 
+
+<h3> <strong> CURRICULUM VITAE - NAUSICA MAGRINI </strong> </h3> 
+
+<img src="asset/nene.jpg" alt="descrizione della foto" width="300" height="300"> 
+<!--blocco di citazione--> <blockquote> Honnin Myo - Qui ed Ora </blockquote> 
+<p> <adress> Data di nascita : 30 maggio 1992 </adress> 
+<adress> </p> 
+<p>  &#9742; 346 - 4023307 </p> </adress> 
+
+<adress> <p> &#64; nausicamagrini@gmail.com </p> </adress>
+<h4> PRESENTAZIONE </H4> 
+<p> Lavoro con aziende pubbliche e private su progetti in fase di start-up, sia come sviluppatrice che come consulente SEO per partire con il piede giusto </p> 
+
+<h4> FORMAZIONE </h4> 
+
+<p> <strong> Diploma di scuola superiore </strong> </p> 
+<p> conseguito nel 2011 presso l'Istituto Sismondi Pacinotti, Pescia (PT) </p>
+
+<p> Ho poi conseguito nel 2023 il corso presso la <strong> Epicode School </strong> </p> 
+<p> ottenendo un attestato in <strong> Master Web Developed </strong> </p> 
+<h4> COMPETENZE </H4> 
+<p> <em> Competenze tecniche acquisite </em> </p> 
+<!--inizio dell'elenco puntato--> 
+<ul> 
+<!--elemento 1 dell'elenco--> 
+<li> HTML </li> 
+<!--elemento 2 dell'elenco--> 
+<li> CSS </li> 
+<!--elementro 3 dell'elenco--> 
+<li> Javascript / Typescript </li> 
+<!--elemento 4 dell'elenco--> 
+<li> Angular </li> 
+<!-- elementro 5 dell'elenco--> 
+<li> SEO tecnica </li> </ul>
+
+<h4>  COMPETENZE OPERATIVE </h4> 
+<!--inizio dell'elenco puntato--> 
+<ul> 
+<!--elemento 1 dell'elenco--> 
+<li> Sviluppo Web </li> 
+<!--elemento 2 dell'elenco--> 
+<li> Dal PSD all'HTLM, sviluppo di template per css </li> 
+<!--elementro 3 dell'elenco--> 
+<li> Ottimizzazione CSS </li> 
+<!--elemento 4 dell'elenco--> 
+<li> Pulizia di codice inusato, minify e verifica compatibilità </li> 
+<!-- elementro 5 dell'elenco--> 
+<li> Ottimizzazione SEO </li>
+<!-- elementro 6 dell'elenco--> 
+<li> Copywriting, Ottimizzazioni tecniche on-site, ottimizzazioni off-site </li> </ul>
+
+
+<p> per stampare questa pagine premere i tasti ctrl + P </p> <em> oppure </em> 
+<p> scarica il mio curriculum </p> 
+
+<!--Link per scaricare il documento PDF--> 
+<a href="asset/credenzialisito.pdf" download="curriculum.pdf">Scarica il pdf </a>
+
+<p> Autorizzo il trattamento dei dati personali secondo il decreto vigente </p> 
+<p> Copyright &copy; 2023 - tutti i diritti riservati </p> 
